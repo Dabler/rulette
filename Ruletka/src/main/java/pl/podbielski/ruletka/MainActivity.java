@@ -80,6 +80,7 @@ public class MainActivity extends ActionBarActivity implements SensorEventListen
     long TimeNew;
     long TimeOld;
     long delay;
+
     //do kręcenia bębenkiem
     int Zmin = 0;
     int Zmax = 0;
